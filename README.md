@@ -28,6 +28,9 @@ Tables:
 
 Tools:
 * SQL
+* DataFlow
+* BigQuery
+* Copilot
 * Google Spreadsheet
 * Power BI Desktop
 * Power BI Service
